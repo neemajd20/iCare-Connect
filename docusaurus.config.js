@@ -44,7 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/neemajd20/iCare-Connect.git',
+            'https://github.com/neemajd20/iCare-student.git',
         },
         blog: {
           showReadingTime: true,
@@ -83,7 +83,7 @@ const config = {
          
          
           {
-            href: 'https://github.com/neemajd20/iCare-Connect.git',
+            href: 'https://github.com/neemajd20/iCare-student.git',
             label: 'GitHub',
             position: 'right',
           },
@@ -96,16 +96,11 @@ const config = {
             title: 'Docs',
             items: [
               {
-                title: 'Docs',
-                items: [
-                  {
-                    label: 'Documentation',
-                    to: '/docs/Introduction',
-                  },
+                label: 'Documentation',
+                to: '/docs/Introduction',
+              },
             ],
           },
-           ],
-            },
           {
             title: 'Community',
             items: [

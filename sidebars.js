@@ -31,7 +31,7 @@ const sidebars = {
       type: 'category',
       label: 'How to Access iCare Connect',
       items: [
-        'How-to-Access-iCare-Connect/Access-link',
+        'How-to-Access-iCare-Connect/Access-Link',
         'How-to-Access-iCare-Connect/Loggin-in-Account',
         'How-to-Access-iCare-Connect/First-Time-Logging-in', 
       ],
