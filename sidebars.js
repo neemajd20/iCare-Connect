@@ -54,7 +54,7 @@ const sidebars = {
         'Working-with-Modules/Client-Registration',
         'Working-with-Modules/Clinic',
         'Working-with-Modules/Nursing',
-        'Working-with-Modules/'
+        
   
       ],
     },
