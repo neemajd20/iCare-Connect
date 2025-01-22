@@ -29,7 +29,7 @@ If you are to register a first-time visit client (patient), then upon clicking t
 ![alt text](<../../static/img/Registration form1.PNG>)
 ![alt text](<../../static/img/Registration form2.PNG>)
 
-**Figure 8: Registration Form Fields**
+*Figure 8: Registration Form Fields*
 
 Upon completion, remember to save the registration by clicking the **Save Registration** button.
 ![alt text](<../../static/img/Registration form3.PNG>)

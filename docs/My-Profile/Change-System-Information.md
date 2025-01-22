@@ -14,7 +14,7 @@ A user can change the password by following these steps:
 3. Fill in the current and new password.  
 4. Lastly, confirm the password.
 ![alt text](<../../static/img/View the user profile.PNG>)
-**Figure 6: View the User Profile**
+*Figure 6: View the User Profile*
 
 ![alt text](<../../static/img/Change the user password.PNG>) 
-**Figure 7: Change the user password**
+*Figure 7: Change the user password*

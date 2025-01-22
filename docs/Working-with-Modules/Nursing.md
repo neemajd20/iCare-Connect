@@ -21,4 +21,4 @@ The following are the steps to be followed:
 
 
 ![alt text](<../../static/img/Nursing Module.PNG>)
-**Figure 10: Nursing Module**
+*Figure 10: Nursing Module*
