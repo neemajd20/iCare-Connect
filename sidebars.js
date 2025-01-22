@@ -32,8 +32,8 @@ const sidebars = {
       label: 'How to Access iCare Connect',
       items: [
         'How-to-Access-iCare-Connect/Access-Link',
-        'How-to-Access-iCare-Connect/Loggin-in-Account',
-        'How-to-Access-iCare-Connect/First-Time-Logging-in', 
+        'How-to-Access-iCare-Connect/Log-in-Account',
+        'How-to-Access-iCare-Connect/First-Time-Log-in', 
       ],
     } ,
     
@@ -42,7 +42,7 @@ const sidebars = {
       label: 'My Profile',
       items: [
         'My-Profile/View-Personal-Information',
-        'My-Profile/Change-Personal-Information',
+        'My-Profile/Change-System-Information',
       ],
     },
 
