@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'iCare-Connect',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'static/img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
