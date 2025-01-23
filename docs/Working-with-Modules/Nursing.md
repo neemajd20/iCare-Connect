@@ -1,7 +1,7 @@
 ---
 id: Nursing
 title: Nursing
-Sidebar_position: 3
+Sidebar_position: 2
 ---
 
 # Nursing Module

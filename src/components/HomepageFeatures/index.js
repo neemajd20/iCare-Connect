@@ -5,8 +5,8 @@ import styles from './styles.module.css';
 const FeatureList = [
   
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/UDSM-logo.PNG.svg.svg').default,
+    title: 'iCare-Student',
+    Svg: require('@site/static/img/UDSM-logo.PNG.svg').default,
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
