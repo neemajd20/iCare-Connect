@@ -9,8 +9,7 @@ const FeatureList = [
     Svg: require('@site/static/img/UDSM-logo.PNG.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        
       </>
     ),
   },
@@ -31,6 +30,8 @@ function Feature({Svg, title, description}) {
     </div>
   );
 }
+
+
 
 export default function HomepageFeatures() {
   return (
