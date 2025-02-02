@@ -55,6 +55,7 @@ const sidebars = {
         'Working-with-Modules/Nursing',
         'Working-with-Modules/Clinic',
         'Working-with-Modules/IPD-Module',
+        'Working-with-Modules/Store',
   
       ],
     },
