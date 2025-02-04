@@ -56,6 +56,7 @@ const sidebars = {
         'Working-with-Modules/Clinic',
         'Working-with-Modules/IPD-Module',
         'Working-with-Modules/Store',
+        'Working-with-Modules/Billing',
   
       ],
     },

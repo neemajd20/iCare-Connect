@@ -12,5 +12,5 @@ The store module seamlessly integrates with the hospital's overall workflow and 
 
 The store module also allows users to request and receive a variety of store items, including drugs and consumables, from designated stores and sub-stores. Requesters can easily check the stock status of specific items in both the requested and requested stores. Additionally, the store module can execute dispensing functions when configured to act as a substore for other dispensing units. Pharmacists can also use the module to assess, download, and print information about items in the store that are nearing expiration, have already expired, are running low on stock, or are adequately stocked. This tool empowers pharmacy professionals to efficiently manage pharmaceutical supplies and ensure optimal patient care as seen in Figure 12.  
 
-[text](Store.md)
+![alt text](../../static/img/Store.PNG)
 *Figure 12: Store Module*  
