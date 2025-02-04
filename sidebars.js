@@ -57,6 +57,8 @@ const sidebars = {
         'Working-with-Modules/IPD-Module',
         'Working-with-Modules/Store',
         'Working-with-Modules/Billing',
+        'Working-with-Modules/Reports',
+        'Working-with-Modules/Theater',
   
       ],
     },
