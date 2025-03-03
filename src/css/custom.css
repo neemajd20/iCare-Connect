@@ -15,6 +15,7 @@
   --ifm-color-primary-lightest: #3c47ad;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --ifm-footer-background-color-main: white;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
@@ -27,4 +28,110 @@
   --ifm-color-primary-lighter: #3237d8;
   --ifm-color-primary-lightest: #4f67dd;
   --docusaurus-highlighted-code-line-bg: rgba(17, 22, 104, 0.3);
+  --ifm-footer-background-color-main: transparent linear-gradient(180deg, #102040 0%, #061126 100%)
+  0% 0% no-repeat padding-box
+}
+
+.footer {
+  background-color: rgb(47, 70, 145) !important; /* Change to match the page background */
+}
+
+
+
+
+/* Markdown */
+
+.markdown h1 {
+  background: linear-gradient(
+    90deg,
+    #232946,
+    #2d355f,
+    #364179,
+    #3d4c95,
+    #4457b1,
+    #5669c2,
+    #6d7ece,
+    #8594d9,
+    #9eaae3,
+    #b8c1ec
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+html[data-theme="dark"] .markdown h1 {
+  background: linear-gradient(
+    90deg,
+    #bbc0ee,
+    #bac0ec,
+    #bac2e7,
+    #babae1,
+    #bbc1df,
+    #bdbde4,
+    #bfc0e9,
+    #b8c1ec
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.markdown h2 {
+  color: #232946;
+}
+
+html[data-theme="dark"] .markdown h2 {
+  color: #939dd4;
+}
+
+html[data-theme="dark"] .markdown h3 {
+  color: #bbbbee;
+}
+
+.markdown a {
+  background-color: var(--color-link-background);
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+html[data-theme="dark"] .markdown a {
+  background-color: unset;
+  color: #d9d9ef;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: #9398d4;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+html[data-theme="dark"] .markdown a:hover {
+  color: #7c8ae8;
+}
+
+.markdown blockquote {
+  background-color: var(--ifm-color-secondary-lighter);
+}
+
+html[data-theme="dark"] .markdown blockquote {
+  background-color: #2d3452;
+  color: #bbbeee;
+  font-weight: bold;
+}
+
+html[data-theme="dark"] .markdown p,
+html[data-theme="dark"] .markdown li {
+  color: #536adc;
+}
+
+.markdown li > p {
+  margin: 0px;
+}
+
+/* Mobile/Tablet */
+
+@media screen and (max-width: 966px) {
+  .hide-on-mobile {
+    display: none;
+  }
 }

@@ -1,23 +1,12 @@
-.logoSection {
-  text-align: center;
-  background-color: #f8f9fc; /* Light background color */
+.features {
+  display: flex;
+  align-items: center;
   padding: 2rem 0;
+  width: 100%;
 }
 
-.centeredLogo {
-  max-width: 200px;
-  height: auto;
-  margin-bottom: 1rem;
+.featureSvg {
+  height: 200px;
+  width: 200px;
 }
 
-.title {
-  font-size: 2.5rem;
-  color: #12375c; /* Customize your theme color */
-  font-weight: bold;
-}
-
-.description {
-  font-size: 1rem;
-  color: #555555;
-  margin-top: 0.5rem;
-}
