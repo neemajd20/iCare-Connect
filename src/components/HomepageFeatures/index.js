@@ -2,18 +2,17 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
-// Define the type for FeatureItem
 const FeatureList = [
   {
     title: 'iCare-Student',
-    Svg: require('@site/static/img/UDSM-logo.PNG.svg').default, // Ensure correct import
+    Svg: require('@site/static/img/UDSM-logo.PNG.svg').default, 
     description: (
       <p>A platform dedicated to student welfare and academic management.</p>
     ),
   },
 ];
 
-// Feature component
+
 function Feature({ title, Svg, description }) {
   return (
     <div className={clsx(styles.feature)}>
@@ -24,7 +23,7 @@ function Feature({ title, Svg, description }) {
   );
 }
 
-// Homepage Features component
+
 export default function HomepageFeatures() {
   return (
     <section className={clsx(styles.features)}>
